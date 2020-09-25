@@ -3,7 +3,7 @@ layout: post
 title: Corona Nights
 subtitle: Esports Adapt to Covid-19
 image: /img/pink_CN_logo.png
-tags: [Graphic Design, Photoshop, Illustrator, Animation]
+tags: [Graphic Design, Photoshop, Illustrator, Animation, After Effects]
 ---
 The Covid-19 pandemic hit many communities across the world hard, and esports was no exception. Packed arenas and local smashfests alike became unthinkably risky.
 In response, the majority of esporting events moved online.
