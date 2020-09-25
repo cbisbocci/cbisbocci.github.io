@@ -8,7 +8,7 @@ title: about me
  - [JET Assistant Language Teacher](http://jetprogramme.org/en/) (2016-2018)
  - Copy Editor for Prescott Papers (2016-2018)
  - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2016-Now)
- - Inbound Service Director (https://takaobc.com/) (2019-2020)
+ - [Inbound Service Director](https://takaobc.com/) (2019-2020)
  
 ### What is it like to work with me?
  - Strong knowledge and understanding of art and design principles.
@@ -21,4 +21,5 @@ title: about me
   - Adobe Photoshop, Illustrator, Premiere Pro, and InDesign
   - Python, HTML
   - Native English, Business Japanese, Business French, and Conversational Swedish  
+  - Copy Editing and Creative Writing
 
