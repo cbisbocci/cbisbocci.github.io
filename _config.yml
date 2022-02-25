@@ -24,11 +24,10 @@ description:
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Animation: 
-    - Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
-    #- Battle Monsters: ""
-    - Corona Nights: "https://cbisbocci.github.io/2020-07-01-coronanights/"
-    - 1b-Bit: "https://cbisbocci.github.io/2020-09-24-16bit/"
+  Content Design: 
+    - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
+    #- Haiku Anthology: "https://cbisbocci.github.io/haiku/"
+    #- Research Papers: ""
   Graphic Design:
     - Christmas Cards: "https://cbisbocci.github.io/2018-12-25-Christmas_Cards/" 
     - Journal of Lincoln Studies: "https://cbisbocci.github.io/2020-07-10-Lincoln/"
@@ -40,13 +39,13 @@ navbar-links:
     - The Shakey Banks Project: "https://cbisbocci.github.io/2018-09-20-the-shakey-banks-project/"
     - TIPR: "https://cbisbocci.github.io/2019-06-29-TIPR/"
     - Tokyo SSB: "https://cbisbocci.github.io/2018-07-28-tokyo-ssb/"
+  Motion Design: 
+    - Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
+    - Corona Nights: "https://cbisbocci.github.io/2020-07-01-coronanights/"
+    - 16-Bit: "https://cbisbocci.github.io/2020-09-24-16bit/"
   #Videography: 
     #-TedxTalk: ""
     #-Tokyo Nights Montage ""
-  Writing: 
-    - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
-    #- Haiku Anthology: "https://cbisbocci.github.io/haiku/"
-    #- Research Papers: ""
   #日本語: "https://cbisbocci.github.io/jp"
   #FRN: "https://cbisbocci.github.io/fr"
  
@@ -91,7 +90,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "cbisbocci@gmail.com"
 #  facebook: daattali
 #  github: daattali
@@ -119,7 +118,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "myportfolio.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "myportfolio.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
