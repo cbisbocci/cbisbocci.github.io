@@ -26,9 +26,19 @@ navbar-links:
   About Me: "aboutme"
   Content Design: 
     - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
+    #- Mt. Takao Magazine:
+    #- Mt. Takao Base Camp:
+    #- Scoville:
     #- Haiku Anthology: "https://cbisbocci.github.io/haiku/"
     #- Research Papers: ""
-  Graphic Design:
+  Motion Design: 
+    - Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
+    - Corona Nights: "https://cbisbocci.github.io/2020-07-01-coronanights/"
+    - 16-Bit: "https://cbisbocci.github.io/2020-09-24-16bit/"
+  UX Design:
+    - Flex Point Security
+    - Scoville
+  Visual Design:
     #- Christmas Cards: "https://cbisbocci.github.io/2018-12-25-Christmas_Cards/" 
     - Journal of Lincoln Studies: "https://cbisbocci.github.io/2020-07-10-Lincoln/"
     #- Komodo: "https://cbisbocci.github.io/2020-08-25-komodo/"
@@ -39,10 +49,7 @@ navbar-links:
     - The Shakey Banks Project: "https://cbisbocci.github.io/2018-09-20-the-shakey-banks-project/"
     - TIPR: "https://cbisbocci.github.io/2019-06-29-TIPR/"
     - Tokyo SSB: "https://cbisbocci.github.io/2018-07-28-tokyo-ssb/"
-  Motion Design: 
-    - Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
-    - Corona Nights: "https://cbisbocci.github.io/2020-07-01-coronanights/"
-    - 16-Bit: "https://cbisbocci.github.io/2020-09-24-16bit/"
+
   #Videography: 
     #-TedxTalk: ""
     #-Tokyo Nights Montage ""
