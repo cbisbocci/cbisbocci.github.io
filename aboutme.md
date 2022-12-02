@@ -29,3 +29,13 @@ disciplines. Among those I have become proficient in content strategy, team mana
   - Native English, Business Japanese, Business French, and Conversational Swedish  
   - Copy Editing and Creative Writing
 
+### Hobbies
+In my free-time I enjoy
+  - 3D modeling
+  - Studying Japanese
+  - Studying computer science
+  - Playing video games
+  - Playing string instruments
+  - Knitting
+  - Finding new things to do! Currently I am taking a course on how to combat misinformation on social media
+
