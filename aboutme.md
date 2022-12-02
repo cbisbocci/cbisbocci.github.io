@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: About Me
 ---
 
 Hello, My name is Cesare and I am Digital Product Architect. What does that mean? It means that over the course of career I have built an expertise across many different 
