@@ -2,13 +2,19 @@
 layout: page
 title: about me
 ---
-### The things I've done
- - Psychology Graduate Teaching Assistant (2014-2016)
- - [Developmental and Sociobiology Lab](https://dslab.uoregon.edu/): Research Assistant (2014-2016)
- - [JET Assistant Language Teacher](http://jetprogramme.org/en/) (2016-2018)
- - Copy Editor for Prescott Papers (2016-2018)
- - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2016-Now)
- - [Inbound Service Director](https://takaobc.com/) (2019-2020)
+
+Hello, My name is Cesare and I am Digital Product Architect. What does that mean? It means that over the course of career I have built an expertise across many different 
+disciplines. Among those I have become proficient in content strategy, team management and visual/UX design. This makes me a strong asset to teams who need an experienced designer and efficient communicator to build their digital solutions.
+
+### Things I've Done
+ - [Digital Product Architect for FPS](https://fpsecurity.ca/) (2021-Present)
+ - [Lead Content Strategist for Scoville Co. Ltd.](https://scoville.jp/) (2020-2021)
+ - [Inbound Service Director for Mt. Takao Base Camp](https://takaobc.com/) (2019-2020)
+ - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2018-2019)\
+ - [Curriculum Creator for Meisei Gakkuen](https://www.meisei.ac.jp/) (2016-2018)
+ - Copy Editor for Prescott Papers (2014-2018)
+ - Assistant Professor of Psychology (2014-2016)
+ - [Developmental and Sociobiology Lab Research Assistant](https://dslab.uoregon.edu/) (2014-2016)
  
 ### What is it like to work with me?
  - Strong knowledge and understanding of art and design principles.
