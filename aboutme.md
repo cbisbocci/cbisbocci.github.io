@@ -13,8 +13,8 @@ disciplines. Among those I have become proficient in content strategy, team mana
  - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2018-2019)\
  - [Curriculum Creator for Meisei Gakkuen](https://www.meisei.ac.jp/) (2016-2018)
  - Copy Editor for Prescott Papers (2014-2018)
- - Assistant Professor of Psychology (2014-2016)
- - [Developmental and Sociobiology Lab Research Assistant](https://dslab.uoregon.edu/) (2014-2016)
+ - Assistant Professor of Psychology at the University of Oregon (2014-2016)
+ - [Developmental and Sociobiology Research Lab Assistant](https://dslab.uoregon.edu/) (2014-2016)
  
 ### What is it like to work with me?
  - Strong knowledge and understanding of art and design principles.
