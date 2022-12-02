@@ -24,21 +24,21 @@ description:
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Content Design: 
+  #Content Design: 
     - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
     #- Mt. Takao Magazine:
     #- Mt. Takao Base Camp:
     #- Scoville:
     #- Haiku Anthology: "https://cbisbocci.github.io/haiku/"
     #- Research Papers: ""
-  Motion Design: 
+  #Motion Design: 
     - Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
     - Corona Nights: "https://cbisbocci.github.io/2020-07-01-coronanights/"
     - 16-Bit: "https://cbisbocci.github.io/2020-09-24-16bit/"
-  UX Design:
+  #UX Design:
     - Flex Point Security
     - Scoville
-  Visual Design:
+  #Visual Design:
     #- Christmas Cards: "https://cbisbocci.github.io/2018-12-25-Christmas_Cards/" 
     - Journal of Lincoln Studies: "https://cbisbocci.github.io/2020-07-10-Lincoln/"
     #- Komodo: "https://cbisbocci.github.io/2020-08-25-komodo/"
@@ -68,15 +68,15 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#484850"
-navbar-text-col: "#FAFAFE"
+navbar-col: "#F00017"
+navbar-text-col: "#EFECED"
 navbar-children-col: "#484850"
 page-col: "#FAFAFE"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#484850"
-footer-text-col: "#777777"
-footer-link-col: "#777777"
+hover-col: "#FEDF01"
+footer-col: "#F00017"
+footer-text-col: "#EFECED"
+footer-link-col: "#EFECED"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
