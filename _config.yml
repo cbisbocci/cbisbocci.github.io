@@ -24,35 +24,32 @@ description:
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  #Content Design: 
-    - Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
+    #- Down The Manhole: "https://cbisbocci.github.io/2018-10-27-down-the-manhole/"
     #- Mt. Takao Magazine:
     #- Mt. Takao Base Camp:
     #- Scoville:
     #- Haiku Anthology: "https://cbisbocci.github.io/haiku/"
     #- Research Papers: ""
-  #Motion Design: 
-    - Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
-    - Corona Nights: "https://cbisbocci.github.io/2020-07-01-coronanights/"
-    - 16-Bit: "https://cbisbocci.github.io/2020-09-24-16bit/"
-  #UX Design:
-    - Flex Point Security
-    - Scoville
-  #Visual Design:
+    #- Alien Abduction!: "https://cbisbocci.github.io/2019-01-31-Alien-Abduction/"
+    #- Corona Nights: "https://cbisbocci.github.io/2020-07-01-coronanights/"
+    #- 16-Bit: "https://cbisbocci.github.io/2020-09-24-16bit/"
+  Design:
+    - Flex Point Security: "https://cbisbocci.github.io/2022-01-01-FPS/"
+    - Scoville: "https://cbisbocci.github.io/2021-11-01-Scoville/"
+  Content:
+    - Mt. Takao Base Camp: "https://cbisbocci.github.io/2020-05-01-MTBC/"
+    - Prescott Papers: "https://cbisbocci.github.io/2018-08-01-Prescottpapers/"
     #- Christmas Cards: "https://cbisbocci.github.io/2018-12-25-Christmas_Cards/" 
-    - Journal of Lincoln Studies: "https://cbisbocci.github.io/2020-07-10-Lincoln/"
+    #- Journal of Lincoln Studies: "https://cbisbocci.github.io/2020-07-10-Lincoln/"
     #- Komodo: "https://cbisbocci.github.io/2020-08-25-komodo/"
-    - LINE Stickers: "https://cbisbocci.github.io/2018-11-01-line-stickers/"
-    - Neural Connectivity: "https://cbisbocci.github.io/2019-02-27-the-tram/"
-    - POPOFF!: "https://cbisbocci.github.io/2019-11-23-popoff/"
-    - Saga Art: "https://cbisbocci.github.io/2020-01-23-sagaart/" 
-    - The Shakey Banks Project: "https://cbisbocci.github.io/2018-09-20-the-shakey-banks-project/"
-    - TIPR: "https://cbisbocci.github.io/2019-06-29-TIPR/"
-    - Tokyo SSB: "https://cbisbocci.github.io/2018-07-28-tokyo-ssb/"
-
-  #Videography: 
-    #-TedxTalk: ""
-    #-Tokyo Nights Montage ""
+    #- LINE Stickers: "https://cbisbocci.github.io/2018-11-01-line-stickers/"
+    #- Neural Connectivity: "https://cbisbocci.github.io/2019-02-27-the-tram/"
+    #- POPOFF!: "https://cbisbocci.github.io/2019-11-23-popoff/"
+    #- Saga Art: "https://cbisbocci.github.io/2020-01-23-sagaart/" 
+    #- The Shakey Banks Project: "https://cbisbocci.github.io/2018-09-20-the-shakey-banks-project/"
+    #- TIPR: "https://cbisbocci.github.io/2019-06-29-TIPR/"
+    #- Tokyo SSB: "https://cbisbocci.github.io/2018-07-28-tokyo-ssb/"
+    
   #日本語: "https://cbisbocci.github.io/jp"
   #FRN: "https://cbisbocci.github.io/fr"
  
