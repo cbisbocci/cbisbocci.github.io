@@ -71,7 +71,7 @@ navbar-children-col: "#C3394E"
 page-col: "#FAFAFE"
 link-col: "#008AFF"
 hover-col: "#FEDF01"
-footer-col: "##D93F55"
+footer-col: "#D93F55"
 footer-text-col: "#EFECED"
 footer-link-col: "#EFECED"
 
@@ -96,8 +96,8 @@ author:
 social-network-links:
   #rss: false
   email: "cbisbocci@gmail.com"
-#  facebook: daattali
-#  github: daattali
+#  facebook: 
+#  github: 
 #  twitter: shakeybanks
 #  reddit: yourname
 #  google-plus: +DeanAttali
