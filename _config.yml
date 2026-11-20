@@ -36,9 +36,8 @@ navbar-links:
   Design:
     - Flex Point Security: "https://cbisbocci.github.io/2022-01-01-FPS/"
     - Scoville: "https://cbisbocci.github.io/2021-11-01-Scoville/"
-  Content:
     - Mt. Takao Base Camp: "https://cbisbocci.github.io/2020-05-01-MTBC/"
-    - Prescott Papers: "https://cbisbocci.github.io/2018-08-01-Prescottpapers/"
+    #- Prescott Papers: "https://cbisbocci.github.io/2018-08-01-Prescottpapers/"
     #- Christmas Cards: "https://cbisbocci.github.io/2018-12-25-Christmas_Cards/" 
     #- Journal of Lincoln Studies: "https://cbisbocci.github.io/2020-07-10-Lincoln/"
     #- Komodo: "https://cbisbocci.github.io/2020-08-25-komodo/"
@@ -70,10 +69,10 @@ navbar-text-col: "#EFECED"
 navbar-children-col: "#C3394E"
 page-col: "#FAFAFE"
 link-col: "#008AFF"
-hover-col: "#FEDF01"
+hover-col: "#EFECED"
 footer-col: "#D93F55"
-footer-text-col: "#EFECED"
-footer-link-col: "#EFECED"
+footer-text-col: "#FEDF01"
+footer-link-col: "#FEDF01"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
