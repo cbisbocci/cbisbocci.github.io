@@ -3,16 +3,8 @@ layout: page
 title: About Me
 ---
 
-Hello, My name is Cesare and I am a Digital Product Architect. Throughout my career, I have developed interdisciplinary expertise in digital product development and design. I effectively transform business goals into real, tangible products. AMong my skills I am proficient at communicating ideas, business consultation, content strategy, project/team management and visual/UX design.
+Hello, My name is Cesare and I am a Digital Product Architect. Throughout my career, I have developed interdisciplinary expertise in digital product development and design. I effectively transform business goals into real, tangible products. Among my skills I am proficient at communicating ideas, business consultation, content strategy, project/team management and visual/UX design.
 
-### Things I've Done
- - [Digital Product Architect for FPS](https://fpsecurity.ca/) (2021-Present)
- - [UX Designer for Scoville Co. Ltd.](https://scoville.jp/) (2020-2021)
- - [Inbound Service Director for Global Partners](https://takaobc.com/) (2019-2020)
- - [Freelance Designer](https://www.linkedin.com/in/cesare-bisbocci/) (2018-2019)
- - Science Department Editor for Prescott Papers (2014-2018)
- - Assistant Professor of Psychology at the University of Oregon (2014-2016)
- - [Developmental and Sociobiology Lab Researcher](https://dslab.uoregon.edu/) (2014-2016)
  
 ### What is it like to work with me?
  - Curious, great at asking questions and learning to how to optimize workflows
